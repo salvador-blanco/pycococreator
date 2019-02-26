@@ -18,3 +18,8 @@ sudo apt-get install python3-dev
 pip install cython
 pip install git+git://github.com/waspinator/coco.git@2.1.0
 ```
+
+To install you can also try:
+```
+pip install https://github.com/waspinator/pycococreator/archive/master.zip
+```
